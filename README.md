@@ -1,4 +1,4 @@
-# Proyecto API Node/Express
+# Proyecto API Node/Express.
 
 <p align="center">
     <a href="https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct12-music-api-grupo-i/actions/workflows/sonarCloud.yml">
@@ -18,4 +18,4 @@
     </a>
 </p>
 
-* [Práctica](https://ull-esit-inf-dsi-2122.github.io/ull-esit-inf-dsi-21-22-prct12-music-api-grupo-i/) realizada por Joseph Francisco Gabino Rodríguez y Alejandro Lugo Fumero.
+* [Práctica](https://akalugo.github.io/API-Node-Express-Gestor-Musical/) realizada por Joseph Francisco Gabino Rodríguez y Alejandro Lugo Fumero.
