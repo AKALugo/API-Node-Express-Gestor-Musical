@@ -1,4 +1,4 @@
-# Práctica 12 de DSI
+# Proyecto API Node/Express
 
 <p align="center">
     <a href="https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct12-music-api-grupo-i/actions/workflows/sonarCloud.yml">
